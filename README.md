@@ -1,0 +1,1 @@
+Run the tests using CreateUserTest.class and GetAllUsersTest.class
